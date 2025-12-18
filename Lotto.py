@@ -37,4 +37,4 @@ if st.button("번호 생성하기! ✨"):
     result_text = "\n".join(results)
     st.download_button("결과를 텍스트 파일로 저장", result_text, file_name="lotto.txt")
 
-st.info("행운이 함께하시길 바랍니다! ^^")
+st.info("행운이 함께하시길 바랍니다! 그라고, 솔직허게 이 프로그램을 이용해서 로또 1등이 당첨되얐다면, 인간적으로다가 개발자한테 1억씩만 주씨요~~~ ^^")
