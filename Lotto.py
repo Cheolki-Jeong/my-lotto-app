@@ -11,7 +11,7 @@ st.write("당신의 행운을 위해 카카오프렌즈가 응원합니다!")
 
 # [이미지 1] 메인 화면 라이언 (현재 작동하는 주소로 교체)
 # 나중에 이미지를 GitHub에 올리신다면 "lion.gif"로 이름을 바꾸시면 됩니다.
-st.image("kakaofriends.gif", width=200)
+st.image("kakaofriends_01.gif", width=200)
 
 # 3. 사이드바 - 설정창
 st.sidebar.header("⚙️ 행운 설정")
